@@ -1,0 +1,25 @@
+html{
+	background-color: pink;
+	font-family: Arial;
+	text-align: center;
+	font-weight: bold;
+	border: 100
+
+
+
+}
+
+#alexaphoto{
+	text-align: center;
+	border: 10px solid black;
+
+}
+
+#alexaphoto {
+	width: 500px;
+	height: 500px;
+}
+
+
+
+
